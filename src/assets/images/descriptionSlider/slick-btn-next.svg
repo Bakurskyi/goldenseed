@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_circle_next</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="btn_circle_next" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#EFF1F2" cx="28" cy="28" r="28"></circle>
+        <g id="Group-3" transform="translate(24.000000, 19.000000)" fill="#0B1324" fill-opacity="0.498584692" fill-rule="nonzero">
+            <polygon id="Shape-Copy-2" points="8.54359783 9.5 0.313376467 1.72701315 1.68662353 0.272986847 11.4564022 9.5 1.68662353 18.7270132 0.313376467 17.2729868"></polygon>
+        </g>
+    </g>
+</svg>
